@@ -1,0 +1,131 @@
+
+					<rss version='1.0'> 
+
+							<channel>
+
+									<title>Rss feed för bloggen "Blogg my InterWebZ" </title>
+
+									<description>Denna är rss feed innehåller utsnitt från alla inlägg som görs i bloggen</description>
+
+									<link>http://127.0.0.1/~kristoffer/blogg/index.php</link>
+
+									<lastBuildDate>Thu, 04 Nov 2010 20:51:49 +0100</lastBuildDate>
+
+									<pubDate>Thu, 04 Nov 2010 20:51:49 +0100</pubDate>
+
+							
+								<item>
+										<title>Lorem ipsum dolor sit amet</title> 
+
+										<link>http://127.0.0.1/~kristoffer/blogg/index.php/lasInlagg/id-1</link> 
+
+										<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum volutpat felis non dolor tincidunt gravida. Sed feugiat eleifend nibh eu porta. Donec vitae est a ligula consectetur pellentesque....</description> 
+
+										<pubDate>Thu, 04 Nov 2010 20:51:49 +0100</pubDate> 
+
+								</item>
+					
+								<item>
+										<title>Duis feugiat semper justo</title> 
+
+										<link>http://127.0.0.1/~kristoffer/blogg/index.php/lasInlagg/id-2</link> 
+
+										<description>Duis feugiat semper justo, at viverra libero porttitor at. Praesent at ligula nisl. Nullam dignissim, arcu ut ultricies aliquet, odio arcu condimentum odio, aliquet ultricies lacus mi eget ante. Morbi elit elit, egestas at iaculis a, tempor ut lorem....</description> 
+
+										<pubDate>Thu, 04 Nov 2010 20:51:49 +0100</pubDate> 
+
+								</item>
+					
+								<item>
+										<title>Nunc vitae felis justo</title> 
+
+										<link>http://127.0.0.1/~kristoffer/blogg/index.php/lasInlagg/id-3</link> 
+
+										<description>Nunc vitae felis justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc ultricies, mi vel accumsan pretium, dui erat feugiat risus, sed cursus risus velit nec justo. Etiam fermentum imperdiet orci a aliquet....</description> 
+
+										<pubDate>Thu, 04 Nov 2010 20:51:49 +0100</pubDate> 
+
+								</item>
+					
+								<item>
+										<title>Vivamus iaculis scelerisque </title> 
+
+										<link>http://127.0.0.1/~kristoffer/blogg/index.php/lasInlagg/id-4</link> 
+
+										<description>Vivamus iaculis scelerisque sem at ultricies. Vivamus eget ipsum ut nisl venenatis semper. Sed cursus ornare ante at pellentesque. Donec viverra imperdiet augue, vitae ornare lectus cursus at. Etiam egestas urna eu velit rhoncus tempor....</description> 
+
+										<pubDate>Thu, 04 Nov 2010 20:51:49 +0100</pubDate> 
+
+								</item>
+					
+								<item>
+										<title>Aenean pretium ultrices quam</title> 
+
+										<link>http://127.0.0.1/~kristoffer/blogg/index.php/lasInlagg/id-5</link> 
+
+										<description>Aenean pretium ultrices quam, sed imperdiet orci laoreet at. Morbi tellus orci, mattis feugiat iaculis vel, tempus sed nisl. Etiam eu ipsum in sapien euismod accumsan. Quisque elementum commodo leo, quis sodales libero malesuada id....</description> 
+
+										<pubDate>Thu, 04 Nov 2010 20:51:49 +0100</pubDate> 
+
+								</item>
+					
+								<item>
+										<title>Morbi nec ornare purus</title> 
+
+										<link>http://127.0.0.1/~kristoffer/blogg/index.php/lasInlagg/id-6</link> 
+
+										<description>Morbi nec ornare purus. Integer tempus, nibh at accumsan consectetur, erat ante sagittis magna, ut dapibus urna elit vitae nisl. Aliquam tortor metus, condimentum ut pulvinar ut, luctus a nisl....</description> 
+
+										<pubDate>Thu, 04 Nov 2010 20:51:49 +0100</pubDate> 
+
+								</item>
+					
+								<item>
+										<title>Nullam dictum leo</title> 
+
+										<link>http://127.0.0.1/~kristoffer/blogg/index.php/lasInlagg/id-7</link> 
+
+										<description>Nullam dictum leo vitae purus varius blandit. Suspendisse ipsum libero, molestie in convallis sed, vulputate ac ante. Suspendisse ut placerat augue. Nunc adipiscing dapibus sem, nec lobortis tortor mattis vitae....</description> 
+
+										<pubDate>Thu, 04 Nov 2010 20:51:49 +0100</pubDate> 
+
+								</item>
+					
+								<item>
+										<title>Sed placerat</title> 
+
+										<link>http://127.0.0.1/~kristoffer/blogg/index.php/lasInlagg/id-8</link> 
+
+										<description>Sed placerat, massa a posuere luctus, nisi mi sollicitudin mi, vitae consequat neque ante in massa. Suspendisse consectetur laoreet lectus non iaculis. Aliquam interdum pellentesque pretium. Sed sit amet sapien non leo bibendum porttitor a id quam....</description> 
+
+										<pubDate>Thu, 04 Nov 2010 20:51:49 +0100</pubDate> 
+
+								</item>
+					
+								<item>
+										<title>In tincidunt nunc</title> 
+
+										<link>http://127.0.0.1/~kristoffer/blogg/index.php/lasInlagg/id-9</link> 
+
+										<description>In tincidunt nunc ac turpis tincidunt mollis. Donec at odio ut felis fringilla hendrerit. Aliquam tincidunt enim vitae lorem iaculis condimentum....</description> 
+
+										<pubDate>Thu, 04 Nov 2010 20:51:49 +0100</pubDate> 
+
+								</item>
+					
+								<item>
+										<title>Praesent tortor arcu</title> 
+
+										<link>http://127.0.0.1/~kristoffer/blogg/index.php/lasInlagg/id-10</link> 
+
+										<description>Praesent tortor arcu, molestie ac tempus at, dictum vel enim. Duis lobortis nisi quis est fermentum sit amet commodo sapien consectetur. Nunc a nulla vel libero convallis congue nec in purus. Nulla tincidunt arcu ac tortor varius posuere....</description> 
+
+										<pubDate>Thu, 04 Nov 2010 20:51:49 +0100</pubDate> 
+
+								</item>
+					 
+							</channel>
+
+					</rss>
+
+				

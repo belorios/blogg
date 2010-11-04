@@ -1,0 +1,27 @@
+.Post_header {
+		padding: 18px 0px 0px 28px;
+		margin: 0px 0px -5px 9px;
+		font-weight: normal;
+		font-size: 18pt;
+		float: left;
+		position: relative;
+		z-index: 5;
+		background: url('../images/appostrof_small.png') no-repeat left;
+	}
+	
+	.Post_comments {
+		z-index: 5;
+		position: relative;
+	}
+	
+.Post {
+	margin: -18px 0px 10px 0px;
+	z-index: 1;
+	position: relative;
+}
+
+.first{
+	margin: -7px 0px 10px 0px;
+	z-index: 1;
+	position: relative;
+}

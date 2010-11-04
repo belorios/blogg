@@ -1,0 +1,337 @@
+body {
+	background: #efefef url('../images/body.gif');
+	margin: 0;
+	padding: 0;
+	font-family: "Arial";
+	font-size: 11pt;
+	color: #363636;
+}
+
+h1 {
+	margin: 0;
+}
+
+h2 {
+	font-size: 14pt;
+	padding: 0;
+	margin: 0;
+}
+
+img {
+	border: none;
+}
+
+input {
+	color: #4a4a4a;
+}
+
+textarea {
+	height: 250px;
+	width: 400px;
+}
+
+label {
+	display: inline-block;
+	font-size: 10pt;
+	font-weight: bold;
+	margin: 6px 0px 0px 3px;
+}
+
+a, a:visited, a:active {
+	color: #4a4a4a;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #6f6f6f;
+	text-decoration: underline;
+}
+
+#BackgroundContainer {
+	background: url('../images/bg.png') repeat-x; 
+	height: 1000px;
+}
+
+.mark {
+	color: #2E5480;
+	font-size: 14pt;
+}
+
+.name_color {
+	color: #2E5480;
+}
+
+#BackgroundContainer_Klet {
+	background: url('../images/klet.png') no-repeat; 
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+#Container {
+	width: 894px;
+	height: auto;
+	margin: 0 auto;
+}
+
+#LogoBox {
+	height: 103px;
+	background: url('../images/logo.png'); 
+	color: #4a4a4a;
+}
+
+	#LogoBox #logo_heading {
+		float: left;
+		font-size: 40px;
+		font-weight: bold;
+		margin: 25px 0px 0px 70px;
+	}
+	
+	#LogoBox #logo_decoration {
+		float: left;
+		margin: 8px 0px 0px 10px;
+		background: url('../images/BigArrows.png'); 
+		width: 70px;
+		height: 78px;
+	}
+	
+	#LogoBox #logo_desc {
+		margin: 8px 0px 0px 10px;
+		font-size: 13pt;
+		float: left;
+	}
+
+#MenuHolder {
+	height: 20px;
+	padding: 0px 5px;
+	margin: -5px 0px 0px 0px;
+}
+
+#pageBody {
+	height: auto;
+}
+
+#pageBody_Top {
+	background: url('../images/content_top.png'); 
+	height: 58px;
+}
+
+#pageBody_Grow {
+	background: url('../images/content_grow.png'); 
+	height: auto;
+}
+
+#pageBody_Extra {
+	background: url('../images/content_grow.png'); 
+	height: auto;
+	font-size: 10pt;
+	padding: 0px 15px 15px 15px;
+}
+
+#pageBody_Grow p {
+	margin: 0; 
+	padding: 0;
+}
+
+#pageBody_Footer {
+	background: url('../images/content_footer.png'); 
+	height: 13px;
+}
+
+#pageBody_Content {
+	margin: -60px 20px 0px 20px;
+	padding: 0px 0px 5px 0px;
+	min-height: 400px;
+}
+
+#pageBody_Content p {
+	margin: 10px 0px; 
+	padding: 0;
+}
+
+#MenuHolder ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+	#MenuHolder ul li {
+		float: left;
+	}
+	
+		#MenuHolder ul li a {
+			color: #fff;
+			font-size: 16pt;
+			text-decoration: none;
+			padding: 0px 15px 4px 10px;
+			background: url('../images/FrontArrows.png') no-repeat right;
+		}
+		
+		#MenuHolder ul li.CurrentPage a {
+			color: #d4d4d4;
+		}
+		
+		#MenuHolder ul li a:hover {
+			color: #d4d4d4;
+		}
+		
+#loginMenu {
+	margin: 8px 0px 8px 0px ;
+	padding: 0;
+	list-style-type: none;
+}
+
+#FooterInfo {
+	color: #bdbdbd;
+	font-size: 10pt;
+	margin: -10px 15px 0px 15px;
+}
+	
+	#FooterInfo a {
+		color: #bdbdbd;
+	}
+
+	#FooterInfo_Left {
+		float: left;
+	}
+	
+	#FooterInfo_Right {
+		float: right;
+	}
+	
+.clear {
+	clear:both;
+}
+
+.warning {
+	color:#E62011;
+	font-weight:bold;
+}
+
+.righty_buttons {
+	float: right; 
+}
+
+.Post {
+	margin: -12px 0px 10px 0px;
+	background: #ececec;
+	-moz-border-radius: 10px 10px;
+	border-radius: 10px 10px;
+}
+
+	.Post_header {
+		padding: 18px 0px 0px 28px;
+		margin: 0px 0px 0px 9px;
+		font-weight: normal;
+		font-size: 18pt;
+		float: left;
+		background: url('../images/appostrof_small.png') no-repeat left;
+	}
+	
+	.Post_comments {
+		margin: 23px 15px 0px 0px;
+		font-weight: normal;
+		font-size: 13pt;
+		float: right;
+	}
+	
+	.Post_comments .mark {
+		font-size: 13pt;
+	}
+	
+	#pageBody_Content .nuller {
+		margin:  0;
+		padding: 0;
+	}
+	
+	.Post div.date {
+		color: #7a7a7a;
+		margin: -5px 0px 0px 38px;
+	}
+	
+	.Post div.content {
+		margin: 13px 8px 15px 8px;
+		
+	}
+	
+	.Post div.content h1 {
+		font-size: 16pt;
+		padding: 5px 0px 5px 0px;
+		background: none;
+	}
+	
+	.Post div.content h2 {
+		font-size: 14pt;
+		padding: 5px 0px 5px 0px;
+		background: none;
+	}
+	
+	.Post_Footer {
+		font-style: italic;
+		padding: 0px 12px;
+		color: #7a7a7a;
+		background: #dae3ed;
+		border-top: 1px solid #d4d4d4; 
+		-moz-border-radius-bottomleft: 10px 10px;
+		-moz-border-radius-bottomright: 10px 10px;
+		border-bottom-left-radius: 10px 10px;
+		border-bottom-right-radius: 10px 10px;
+	}
+	
+	.Post_Footer a{
+		color: #2E5480;
+	}
+
+#postComments h3{
+	padding: 14px 0px 0px 28px;
+	margin: 0px 0px 0px 9px;
+	font-weight: normal;
+	font-size: 18pt;
+	background: url('../images/appostrof_small.png') no-repeat left;
+}
+	
+.comments {
+	margin: -10px 170px 25px 0px; 
+	font-size: 11pt; 	
+	background: #ececec;
+	-moz-border-radius: 10px 10px;
+	border-radius: 10px 10px;
+}
+
+.comments_header {
+	font-size: 14pt;
+	margin: 0px 0px 0px 15px;
+	float: left;
+}
+
+.comments_date {
+	color: #7a7a7a;
+	margin: 2px 185px 0px 0px;
+	float: right;
+}
+
+.comments_content {
+	padding: 16px 8px 10px 8px;
+}
+
+.comments_footer {
+	color: #6b6b6b;
+	
+	font-style: italic; 
+	padding: 0px 10px;
+	background: #dae3ed;
+	border-top: 1px solid #d4d4d4; 
+	-moz-border-radius-bottomleft: 10px 10px;
+	-moz-border-radius-bottomright: 10px 10px;
+	border-bottom-left-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+}
+
+.comments_footer a{
+	color: #2E5480;
+}
+
+.code {
+	background: #d6d6d6;
+	width: 700px;
+	overflow: auto;
+}

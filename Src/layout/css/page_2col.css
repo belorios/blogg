@@ -1,0 +1,36 @@
+#pageBody_Content_Big {
+	width: 620px;
+	float: left;
+}
+
+#pageBody_Content_Sidebox {
+	width: 215px;
+}
+
+
+.SideBox_Header {
+	height: 40px;
+	width: 240px;
+	margin: 0px 0px 0px 0px;
+	background: url('../images/sideboxheader.png');
+}
+
+.SideBox_Header h2 {
+	padding: 10px 0px 0px 18px;
+	font-weight: 100;
+	font-size: 18pt;
+	color: #4a4a4a;
+}
+
+.SideBox_Box .body {
+	width: 200px;
+	margin: 10px 10px 0px 15px;
+}
+
+h1 {
+	font-size: 16pt;
+	padding: 0px 0px 0px 20px;
+	background: url('../images/FrontArrowsTripple.png') no-repeat left;
+	color: #363636;
+}
+

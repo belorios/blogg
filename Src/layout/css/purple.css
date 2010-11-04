@@ -1,0 +1,38 @@
+
+.mark {
+	color: #7830a5;
+}
+
+.name_color {
+	color: #7830a5;
+}
+
+.SideBox_Header {
+	background: url('../images/sideboxheader_purple.png');
+}
+
+.Post_header {
+	background: url('../images/appostrof_purple.png') no-repeat left;
+}
+
+.Post_Footer {
+	background: #dabdec;
+}
+	
+	.Post_Footer a {
+		color: #7830a5;
+	}
+
+#postComments h3{
+	background: url('../images/appostrof_purple.png') no-repeat left;
+}
+
+.comments_footer {
+	background: #dabdec;
+}
+
+	.comments_footer a{
+		color: #7830a5;
+	}
+	
+	
